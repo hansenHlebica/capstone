@@ -1,4 +1,4 @@
-package edu.miracosta.cs112.jaws.view;
+package edu.miracosta.cs112.jaws.view; // testing...
 
 import edu.miracosta.cs112.jaws.controller.Controller;
 import edu.miracosta.cs112.jaws.model.Product;
